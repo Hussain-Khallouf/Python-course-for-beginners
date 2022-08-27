@@ -1,0 +1,3 @@
+8031,book2,450,small,5000,True
+7031,book3,450,small,5000,False
+
